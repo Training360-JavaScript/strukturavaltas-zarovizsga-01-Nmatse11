@@ -6,3 +6,9 @@
     @content
   }
 };
+
+@mixin hover ($background-color) {
+    &:hover {
+      background-color: $background-color
+    }
+}

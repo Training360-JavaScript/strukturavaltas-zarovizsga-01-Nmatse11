@@ -4,7 +4,8 @@
 
 export const environment = {
   production: false,
-  apiUrl: 'https://nettuts.hu/jms/str2-final-exam/',
+  //apiUrl: 'https://nettuts.hu/jms/str2-final-exam/',
+  apiUrl: 'https://nettuts.hu/jms/Nmatse11/',
 };
 
 /*
